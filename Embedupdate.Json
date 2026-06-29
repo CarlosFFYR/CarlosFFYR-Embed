@@ -1,9 +1,9 @@
 {
   "versionCode": 1,
-  "versionName": "1.0",
+  "versionName": "1.1",
   "title": "Nueva actualización disponible",
   "apkSize": "12.5 MB",
-  "forceUpdate": false,
-  "changes": "• Mejor rendimiento\n• Corrección de errores\n• Nuevo reproductor",
+  "forceUpdate": true,
+  "changes": "• Mejor Velocidad & Fluidez\n• Compatibilidad con Android 5.0\n• Compatibilidad con Smart TV",
   "downloadUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1283443101/47474010-b098-467f-b26e-87d0210cbcea?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-29T20%3A33%3A57Z&rscd=attachment%3B+filename%3DCarlosFFYR.Embed_1.0.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-29T19%3A33%3A44Z&ske=2026-06-29T20%3A33%3A57Z&sks=b&skv=2018-11-09&sig=Ilqj7wAbCu8H9BC84DLuYg5cOINnAOp7hxI9coXMWss%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4Mjc2MzEyMSwibmJmIjoxNzgyNzYyODIxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.fT9MQuHmG_s8IKntRJSH96uyGzaC5KGgGjDyNWRIR-g&response-content-disposition=attachment%3B%20filename%3DCarlosFFYR.Embed_1.0.apk&response-content-type=application%2Fvnd.android.package-archive"
 }
